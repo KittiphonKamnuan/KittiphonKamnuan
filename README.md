@@ -91,58 +91,6 @@
 </div>
 
 
-## 💡 Current Focus
-
-<div align="center">
-
-```typescript
-const currentlyWorkingOn = {
-  professional: [
-    "🤖 Scaling AnyCaller's AI infrastructure",
-    "🎨 Creating seamless UX at Rabbit Start",
-    "⚡ Optimizing real-time data processing"
-  ],
-  learning: [
-    "🧠 Advanced Machine Learning algorithms",
-    "☁️ Cloud-native architecture patterns",
-    "🔧 DevOps best practices"
-  ],
-  contributing: [
-    "🌟 Open source projects",
-    "👥 GDSC community initiatives", 
-    "📝 Tech blog articles"
-  ]
-};
-```
-
-</div>
-
-## 🎯 Recent Achievements
-
-<div align="center">
-
-```javascript
-const achievements2025 = {
-  leadership: {
-    cto_role: "🚀 Leading AnyCaller AI development team",
-    awards: "🏆 Young Leader Award (2023, 2024)",
-    competition: "🥇 1st Place - Programming Competition"
-  },
-  technical: {
-    infrastructure: "⚡ 99.9% uptime for healthcare AI systems",
-    performance: "📈 40% improvement in call processing time",
-    scalability: "🔥 Handling 1000+ concurrent voice calls"
-  },
-  community: {
-    gdsc: "👥 Core Team Member - Google Developer Student Club",
-    hackathons: "🎪 12+ hackathons participated (2023-2025)",
-    mentorship: "🎓 Mentoring junior developers at university"
-  }
-};
-```
-
-</div>
-
 ## 🎯 Hackathon Journey
 
 <div align="center">
@@ -157,95 +105,8 @@ const achievements2025 = {
 
 </div>
 
-## 🚀 Fun Facts & Quick Stats
-
-<div align="center">
-
-| 📊 **Metric** | 📈 **Value** | 🎯 **Achievement** |
-|---------------|--------------|-------------------|
-| ☕ Coffee Consumed | 2000+ cups | Fueling late-night coding |
-| 💻 Lines of Code | 100,000+ | Building the future |
-| 🧩 Problems Solved | 1000+ | Never give up attitude |
-| 👥 Teams Led | 5+ projects | Leadership in action |
-| 🎪 Hackathons | 12+ events | Innovation mindset |
-| 🏆 Awards Won | 3+ major | Recognition of excellence |
-
-</div>
-
-### 🎭 Developer Personality
-
-```python
-class KittiphonDeveloper:
-    def __init__(self):
-        self.favorite_languages = ["TypeScript", "Python", "Java"]
-        self.coding_style = "Clean, scalable, and well-documented"
-        self.debugging_method = "console.log() → proper debugging tools"
-        self.learning_mode = "Always curious, never satisfied"
-        self.team_role = "The one who asks 'What if we..?'"
-        
-    def daily_routine(self):
-        return [
-            "☕ Start with coffee and GitHub notifications",
-            "🔥 Tackle the hardest problem first",
-            "👥 Collaborate and help team members", 
-            "📚 Learn something new",
-            "🚀 Push meaningful commits"
-        ]
-        
-    def life_motto(self):
-        return "Code with purpose, lead with empathy, innovate with impact"
-```
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-
-| 🗓️ **Day** | 💻 **Focus Area** | 🎯 **Goal** |
-|------------|------------------|-------------|
-| Monday | AnyCaller AI Core | Scale infrastructure |
-| Tuesday | Rabbit Start UX | Enhance user experience |
-| Wednesday | Open Source | Community contribution |
-| Thursday | Learning & Research | New tech exploration |
-| Friday | Documentation | Knowledge sharing |
-| Weekend | Side Projects | Innovation time |
-
-</div>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## 🎯 Goals & Vision
-
-<div align="center">
-
-```typescript
-const roadmap2025 = {
-  shortTerm: {
-    q1: [
-      "🏥 Scale AnyCaller to serve 5+ hospitals",
-      "🚀 Launch AllKampus beta for multiple universities",
-      "📱 Complete mobile app development"
-    ],
-    q2: [
-      "🤖 Implement advanced AI features",
-      "👥 Expand development team",
-      "🏆 Win major hackathon competition"
-    ]
-  },
-  longTerm: {
-    career: "💼 Become a recognized tech leader in Thailand",
-    impact: "🌟 Build technology that improves healthcare and education",
-    community: "👨‍🏫 Mentor next generation of developers"
-  },
-  personal: {
-    learning: "🧠 Master AI/ML and cloud architecture",
-    graduation: "🎓 Graduate with first-class honors",
-    entrepreneurship: "🚀 Launch successful tech startup"
-  }
-};
-```
-
-</div>
 
 ## 🤝 Connect with Me
 
