@@ -90,17 +90,6 @@
 
 </div>
 
-## 🚀 Current Projects
-
-### 🏢 Professional Work
-- **🤖 AnyCaller** (CTO) - AI-powered call center system for hospitals with real-time voice processing
-- **🐰 Rabbit Start** (Frontend Developer) - Building next-gen digital experiences
-- **⏰ Runexy Thailand** - Time attendance system with Next.js and PostgreSQL
-- **🚀 Rocket XP** - Gamification platform for employee engagement tracking
-
-### 🔬 Research & Innovation
-- **🤖 Agent AI Research** at Tonkit Lab - Exploring cutting-edge AI applications
-- **📊 Data Analytics** - Using Pandas & NumPy for insights and automation
 
 ## 💡 Current Focus
 
