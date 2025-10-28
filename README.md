@@ -55,13 +55,6 @@
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🧪 Testing & Tools
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 </div>
 
 ## 📊 GitHub Analytics
@@ -73,6 +66,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KittiphonKamnuan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KittiphonKamnuan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -103,66 +102,6 @@
 - **🤖 Agent AI Research** at Tonkit Lab - Exploring cutting-edge AI applications
 - **📊 Data Analytics** - Using Pandas & NumPy for insights and automation
 
-## 🏅 Achievements & Leadership
-
-<div align="center">
-
-```javascript
-const achievements = {
-  academic: {
-    gpa: "3.48/4.0",
-    university: "Thammasat University",
-    awards: ["Young Leader Award 2023", "Young Leader Award 2024"]
-  },
-  competitions: {
-    programming: "🥇 1st Place - CS Department Programming Competition",
-    hackathons: ["GenAI 2025", "GoSoft 2025", "TU Startup 2025", "8+ more..."]
-  },
-  leadership: {
-    gdsc: "Core Team Member - Google Developer Student Club",
-    tusu: "Communication Team - Thammasat University Student Union",
-    cstu: "Core Student - Computer Science Thammasat University"
-  }
-};
-```
-
-</div>
-
-## 🎯 Hackathon Journey
-
-<div align="center">
-
-| 🏆 **2025** | 🚀 **2024** | 🌟 **2023** |
-|-------------|-------------|-------------|
-| GenAI Hackathon | Thammasat University | UniHack |
-| GoSoft Hackathon | Malong Hackathon | |
-| TU Startup | Krungsri Universe x KMITL | |
-| | CUBS Blockathon | |
-| | UniHack | |
-
-</div>
-
-## 🎯 Goals & Aspirations
-
-- 🚀 **Building accessible software** that enhances user experiences
-- 🏥 **Healthcare Innovation** - Making medical services more efficient through AI
-- 🌐 **Full-Stack Mastery** - Continuously expanding my tech stack
-- 👨‍🏫 **Knowledge Sharing** - Contributing to the developer community
-- 🎓 **Academic Excellence** - Maintaining strong GPA while gaining real-world experience
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kamnuantech.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yiyophone8266@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kittiphon-kamnuan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KittiphonKamnuan)
-
-📞 **Phone**: +66 63-273-8950 | 📍 **Location**: Bangkok, Thailand
-
-</div>
-
 ## 💡 Current Focus
 
 <div align="center">
@@ -189,10 +128,193 @@ const currentlyWorkingOn = {
 
 </div>
 
-## 📈 Weekly Development Breakdown
+## 🎯 Recent Achievements
+
+<div align="center">
+
+```javascript
+const achievements2025 = {
+  leadership: {
+    cto_role: "🚀 Leading AnyCaller AI development team",
+    awards: "🏆 Young Leader Award (2023, 2024)",
+    competition: "🥇 1st Place - Programming Competition"
+  },
+  technical: {
+    infrastructure: "⚡ 99.9% uptime for healthcare AI systems",
+    performance: "📈 40% improvement in call processing time",
+    scalability: "🔥 Handling 1000+ concurrent voice calls"
+  },
+  community: {
+    gdsc: "👥 Core Team Member - Google Developer Student Club",
+    hackathons: "🎪 12+ hackathons participated (2023-2025)",
+    mentorship: "🎓 Mentoring junior developers at university"
+  }
+};
+```
+
+</div>
+
+## 🎯 Hackathon Journey
+
+<div align="center">
+
+| 🏆 **2025** | 🚀 **2024** | 🌟 **2023** |
+|-------------|-------------|-------------|
+| GenAI Hackathon | Thammasat University | UniHack |
+| GoSoft Hackathon | Malong Hackathon | |
+| TU Startup | Krungsri Universe x KMITL | |
+| | CUBS Blockathon | |
+| | UniHack | |
+
+</div>
+
+## 🚀 Fun Facts & Quick Stats
+
+<div align="center">
+
+| 📊 **Metric** | 📈 **Value** | 🎯 **Achievement** |
+|---------------|--------------|-------------------|
+| ☕ Coffee Consumed | 2000+ cups | Fueling late-night coding |
+| 💻 Lines of Code | 100,000+ | Building the future |
+| 🧩 Problems Solved | 1000+ | Never give up attitude |
+| 👥 Teams Led | 5+ projects | Leadership in action |
+| 🎪 Hackathons | 12+ events | Innovation mindset |
+| 🏆 Awards Won | 3+ major | Recognition of excellence |
+
+</div>
+
+### 🎭 Developer Personality
+
+```python
+class KittiphonDeveloper:
+    def __init__(self):
+        self.favorite_languages = ["TypeScript", "Python", "Java"]
+        self.coding_style = "Clean, scalable, and well-documented"
+        self.debugging_method = "console.log() → proper debugging tools"
+        self.learning_mode = "Always curious, never satisfied"
+        self.team_role = "The one who asks 'What if we..?'"
+        
+    def daily_routine(self):
+        return [
+            "☕ Start with coffee and GitHub notifications",
+            "🔥 Tackle the hardest problem first",
+            "👥 Collaborate and help team members", 
+            "📚 Learn something new",
+            "🚀 Push meaningful commits"
+        ]
+        
+    def life_motto(self):
+        return "Code with purpose, lead with empathy, innovate with impact"
+```
+
+## 📊 Weekly Development Breakdown
+
+<div align="center">
+
+| 🗓️ **Day** | 💻 **Focus Area** | 🎯 **Goal** |
+|------------|------------------|-------------|
+| Monday | AnyCaller AI Core | Scale infrastructure |
+| Tuesday | Rabbit Start UX | Enhance user experience |
+| Wednesday | Open Source | Community contribution |
+| Thursday | Learning & Research | New tech exploration |
+| Friday | Documentation | Knowledge sharing |
+| Weekend | Side Projects | Innovation time |
+
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+## 🎯 Goals & Vision
+
+<div align="center">
+
+```typescript
+const roadmap2025 = {
+  shortTerm: {
+    q1: [
+      "🏥 Scale AnyCaller to serve 5+ hospitals",
+      "🚀 Launch AllKampus beta for multiple universities",
+      "📱 Complete mobile app development"
+    ],
+    q2: [
+      "🤖 Implement advanced AI features",
+      "👥 Expand development team",
+      "🏆 Win major hackathon competition"
+    ]
+  },
+  longTerm: {
+    career: "💼 Become a recognized tech leader in Thailand",
+    impact: "🌟 Build technology that improves healthcare and education",
+    community: "👨‍🏫 Mentor next generation of developers"
+  },
+  personal: {
+    learning: "🧠 Master AI/ML and cloud architecture",
+    graduation: "🎓 Graduate with first-class honors",
+    entrepreneurship: "🚀 Launch successful tech startup"
+  }
+};
+```
+
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kamnuantech.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yiyophone8266@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kittiphon-kamnuan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KittiphonKamnuan)
+
+📞 **Phone**: +66 63-273-8950 | 📍 **Location**: Bangkok, Thailand
+
+</div>
+
+## 🎮 Interactive Zone
+
+<div align="center">
+
+### 🎯 Quick Stats Dashboard
+```ascii
+┌─────────────────────────────────────────────────────────────────┐
+│  👨‍💻 Kittiphon's Developer Dashboard                              │
+├─────────────────────────────────────────────────────────────────┤
+│  🎓 Education: CS @ Thammasat (3.48 GPA)                       │
+│  💼 Role: CTO @ AnyCaller | Frontend @ Rabbit Start            │
+│  🏆 Achievements: 1st Place Winner | Young Leader Award        │
+│  🎯 Hackathons: 12+ Events | Multiple Wins                     │
+│  ⚡ Current: Building AI Healthcare Solutions                   │
+│  🌟 Goal: Graduate with Honors & Land Dream Job                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🎲 Random Dev Fact
+<details>
+<summary>Click to reveal a random fact about me! 🎉</summary>
+
+```javascript
+const randomFacts = [
+  "🤖 I've built an AI that can handle 1000+ concurrent calls",
+  "🏆 Won 1st place in programming while maintaining 3.48 GPA",
+  "☕ I debug better with Thai coffee than any energy drink",
+  "🎯 Led teams of 5+ developers before turning 21",
+  "🌙 My best coding happens between 11 PM - 3 AM",
+  "📱 I can switch between 8 programming languages in one project",
+  "🎪 Attended more hackathons than concerts (12+ and counting!)"
+];
+
+console.log(randomFacts[Math.floor(Math.random() * randomFacts.length)]);
+```
+</details>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/KittiphonKamnuan/KittiphonKamnuan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ## 💭 Developer Quote
 
@@ -204,10 +326,22 @@ const currentlyWorkingOn = {
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🌟 "The best code is not just working code, but code that helps people live better lives."
 
-**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+**Thanks for stopping by! ⭐ Feel free to explore my repositories and let's build something amazing together!**
 
-*Currently open to internship opportunities and exciting collaborations* 🚀
+```typescript
+const currentStatus = {
+  status: "🚀 Building the future, one commit at a time",
+  availability: "Open to exciting opportunities and collaborations",
+  timezone: "Bangkok, Thailand (UTC+7)",
+  bestTimeToConnect: "Anytime! I love talking about tech 💬"
+};
+```
+
+*Currently seeking internship opportunities for Summer 2025* 🚀
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=KittiphonKamnuan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/KittiphonKamnuan)
+[![GitHub followers](https://img.shields.io/github/followers/KittiphonKamnuan?label=Follow&style=social)](https://github.com/KittiphonKamnuan)
 
 </div>
