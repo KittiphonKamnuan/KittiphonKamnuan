@@ -125,8 +125,6 @@
 
 <div align="center">
 
-### 🎯 Quick Stats Dashboard
-[
 
 *Currently seeking internship opportunities for Summer 2025* 🚀
 
