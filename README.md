@@ -265,68 +265,7 @@ const roadmap2025 = {
 <div align="center">
 
 ### 🎯 Quick Stats Dashboard
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│  👨‍💻 Kittiphon's Developer Dashboard                              │
-├─────────────────────────────────────────────────────────────────┤
-│  🎓 Education: CS @ Thammasat (3.48 GPA)                       │
-│  💼 Role: CTO @ AnyCaller | Frontend @ Rabbit Start            │
-│  🏆 Achievements: 1st Place Winner | Young Leader Award        │
-│  🎯 Hackathons: 12+ Events | Multiple Wins                     │
-│  ⚡ Current: Building AI Healthcare Solutions                   │
-│  🌟 Goal: Graduate with Honors & Land Dream Job                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 🎲 Random Dev Fact
-<details>
-<summary>Click to reveal a random fact about me! 🎉</summary>
-
-```javascript
-const randomFacts = [
-  "🤖 I've built an AI that can handle 1000+ concurrent calls",
-  "🏆 Won 1st place in programming while maintaining 3.48 GPA",
-  "☕ I debug better with Thai coffee than any energy drink",
-  "🎯 Led teams of 5+ developers before turning 21",
-  "🌙 My best coding happens between 11 PM - 3 AM",
-  "📱 I can switch between 8 programming languages in one project",
-  "🎪 Attended more hackathons than concerts (12+ and counting!)"
-];
-
-console.log(randomFacts[Math.floor(Math.random() * randomFacts.length)]);
-```
-</details>
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/KittiphonKamnuan/KittiphonKamnuan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-## 💭 Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-
-### 🌟 "The best code is not just working code, but code that helps people live better lives."
-
-**Thanks for stopping by! ⭐ Feel free to explore my repositories and let's build something amazing together!**
-
-```typescript
-const currentStatus = {
-  status: "🚀 Building the future, one commit at a time",
-  availability: "Open to exciting opportunities and collaborations",
-  timezone: "Bangkok, Thailand (UTC+7)",
-  bestTimeToConnect: "Anytime! I love talking about tech 💬"
-};
-```
+[
 
 *Currently seeking internship opportunities for Summer 2025* 🚀
 
