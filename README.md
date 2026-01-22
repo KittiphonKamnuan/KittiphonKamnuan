@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at **Thammasat University** (GPA: 3.48/4.0)
+- 🎓 **Computer Science Student** at **Thammasat University** (GPA: 3.52/4.0)
 - 💼 **CTO** at **AnyCaller** - Building AI-powered call center solutions
 - 💻 **Frontend Developer** at **Rabbit Start** - Creating innovative digital experiences
 - 🏆 **1st Place Winner** - Programming Competition, CS Department
