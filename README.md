@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Kittiphon Kamnuan
+# Hi there! 👋 I'm Kittiphon Kamnuan (กิตติภณ คำนวล)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Engineer;CTO+%40+AnyCaller;Frontend+Dev+%40+Rabbit+Start;Computer+Science+Student;Hackathon+Enthusiast;Always+building+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer+%26+AI+Engineer;Software+Developer+%40+Netbay;Computer+Science+%40+Thammasat;Hackathon+Enthusiast;Always+building+something+cool!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,50 +12,101 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at **Thammasat University** (GPA: 3.52/4.0)
-- 💼 **CTO** at **AnyCaller** - Building AI-powered call center solutions
-- 💻 **Frontend Developer** at **Rabbit Start** - Creating innovative digital experiences
-- 🏆 **1st Place Winner** - Programming Competition, CS Department
-- 🌟 **Young Leader Award** - Department Representative (2023, 2024)
-- 🏗️ **Core Team Member** at Google Developer Student Club (GDSC)
-- 📞 **Portfolio**: [www.kamnuantech.com](https://www.kamnuantech.com)
+Full-stack developer & AI engineer passionate about building impactful digital products. Aspiring software engineer who wants to build accessible software that solves real-world problems and improves user experience and business efficiency.
+
+- 🎓 **B.Sc. Computer Science** at **Thammasat University** (2023 – Present, GPA: 3.57/4.0)
+- 💼 **Software Developer** at **Netbay Public Company Limited** — Cooperative Education (Jun 2026 – Present)
+- 🧠 **Co-Founder & Lead Software Engineer** at **ANY AI Thailand** — voice AI SaaS for SMEs (May 2025 – May 2026)
+- 💻 **Frontend Developer Intern** at **Rabbit Start** (Jun 2025 – Nov 2025)
+- 🏆 **1st Place** — Programming Competition, CS Department
+- 🌟 **Young Leader Award** — Department Representative (2023, 2024, 2025)
+- 📍 Pathum Thani, Thailand · 🌐 [kamnuantech.com](https://kamnuantech.com)
+
+## 💼 Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Jun 2026 – Present | Software Developer (Co-op) | Netbay Public Company Limited |
+| Jun 2025 – Nov 2025 | Frontend Developer (Intern) | Rabbit Start |
+| May 2025 – May 2026 | Co-Founder & Lead Software Engineer | ANY AI Thailand |
+| May 2025 – Jun 2025 | Software Engineer (Intern) | Runexy Thailand |
+| May 2025 – Jun 2025 | AI Researcher | Tonkit Lab |
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix--web-000000?style=for-the-badge&logo=rust&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🤖 AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 </div>
+
+## 🏆 Featured Projects
+
+| Project | Category | Highlights |
+|---------|----------|------------|
+| **KazuShop** — Roblox in-game item store | Web & Full-Stack | Next.js 16, React 19, Auth.js, PromptPay QR with auto slip verification, Supabase + Drizzle |
+| **360Home** — Virtual tour platform | Web & Full-Stack | 360° panorama viewer with Three.js / React Three Fiber, Clerk, Neon PostgreSQL |
+| **CampusVoice** — Campus issue reporting | Web & Full-Stack | MERN stack, JWT roles, upvotes, admin dashboard |
+| **DeliveryGenie** — AI route optimization | AI & Data | Last-mile delivery for 6,000+ stores, 22M GPS points/day, PostGIS, AWS |
+| **Agentic AI Q&A** | AI & Data | Multi-agent RAG with LangChain + LangGraph, pgvector, Claude API, > 85% accuracy |
+| **ScamReport** — AI complaint management (ThaiPBS) | AI & Data | Tech lead for a 5-person team; NLP auto-categorization from LINE OA cut admin time 50% |
+| **OpenClaw** — AI secretary bot | AI & Data | Gemini + Telegram, manages Google Calendar / Tasks in natural language, Cloud Run |
+| **ANYCALLER** — AI call center SaaS | AI & Data | Real-time voice with Twilio + NLP, Stripe subscriptions |
+| **VolunteerMatch** — Disaster response microservice | Backend & API | Rust + Actix-web, geo-matching, AWS EC2 / RDS / SNS |
+| **QFlow** — Queue management API | Backend & API | Go + Gin, Clean Architecture, OTP + JWT auth |
+| **ทันหุ้น (Tunhun)** — Real-time stock tracker | Mobile | Android (Java, MVVM), WebSocket live prices |
+| **Go App DevOps** — GitOps CI/CD on EKS | Automation & Tools | GitHub Actions, Terraform, Helm, ArgoCD on Amazon EKS |
+
+👉 See all projects at [kamnuantech.com](https://kamnuantech.com)
 
 ## 📊 GitHub Analytics
 
@@ -68,28 +119,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KittiphonKamnuan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KittiphonKamnuan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KittiphonKamnuan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
 </div>
 
-## 🏆 Featured Projects
+## 🎖️ Achievements & Involvement
 
-<div align="center">
-
-[![AnyCaller AI](https://github-readme-stats.vercel.app/api/pin/?username=KittiphonKamnuan&repo=anycaller.kamnuantech&theme=tokyonight&hide_border=true)](https://github.com/KittiphonKamnuan/anycaller.kamnuantech)
-[![Group5 Agent AI](https://github-readme-stats.vercel.app/api/pin/?username=KittiphonKamnuan&repo=Group5_Agent_AI&theme=tokyonight&hide_border=true)](https://github.com/KittiphonKamnuan/Group5_Agent_AI)
-
-[![CS100 Project](https://github-readme-stats.vercel.app/api/pin/?username=KittiphonKamnuan&repo=CS100-Project-G12&theme=tokyonight&hide_border=true)](https://github.com/KittiphonKamnuan/CS100-Project-G12)
-[![AllKampus](https://github-readme-stats.vercel.app/api/pin/?username=KittiphonKamnuan&repo=allkampus.kamnuantech&theme=tokyonight&hide_border=true)](https://github.com/KittiphonKamnuan/allkampus.kamnuantech)
-
-</div>
-
+- 🥇 **1st Place** | Programming Competition, Computer Science Department
+- 🌟 **Young Leader Award** | Department Representative, 2023, 2024, 2025
+- 🏗️ **Google Developer Student Club (GDSC)** | Core Team (Oct 2023 – Jun 2024), Manage Team (Jun 2024 – Oct 2024)
+- 💻 **Computer Science Thammasat University (CSTU)** | Core Team (Nov 2023 – Present)
+- 📣 **Thammasat University Student Union (TUSU)** | Member, Communication Team (Sep 2024 – Apr 2025)
 
 ## 🎯 Hackathon Journey
 
@@ -97,10 +137,10 @@
 
 | 🏆 **2025** | 🚀 **2024** | 🌟 **2023** |
 |-------------|-------------|-------------|
-| GenAI Hackathon | Thammasat University | UniHack |
-| GoSoft Hackathon | Malong Hackathon | |
-| TU Startup | Krungsri Universe x KMITL | |
-| | CUBS Blockathon | |
+| GenAI Hackathon | Malong Hackathon | UniHack |
+| GoSoft Hackathon | Krungsri Universe x KMITL Hackathon | |
+| TU Startup | CUBS Blockathon | |
+| | Thammasat University Hackathon | |
 | | UniHack | |
 
 </div>
@@ -112,23 +152,13 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kamnuantech.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yiyophone8266@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kittiphon-kamnuan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kamnuantech.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kamnuantech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kittiphon-kamnuan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KittiphonKamnuan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kittiphon_kamnuan/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Kittiphon_Kamnuan)
 
-📞 **Phone**: +66 63-273-8950 | 📍 **Location**: Bangkok, Thailand
-
-</div>
-
-## 🎮 Interactive Zone
-
-<div align="center">
-
-
-*Currently seeking internship opportunities for Summer 2025* 🚀
-
-[![Visitor Count](https://komarev.com/ghpvc/?username=KittiphonKamnuan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/KittiphonKamnuan)
-[![GitHub followers](https://img.shields.io/github/followers/KittiphonKamnuan?label=Follow&style=social)](https://github.com/KittiphonKamnuan)
+📍 **Location**: Pathum Thani, Thailand
 
 </div>
