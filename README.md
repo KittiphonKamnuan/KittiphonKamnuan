@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Kittiphon Kamnuan (กิตติภณ คำนวล)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer+%26+AI+Engineer;Software+Developer+%40+Netbay;Computer+Science+%40+Thammasat;Hackathon+Enthusiast;Always+building+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F2B84B&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer+%26+AI+Engineer;Software+Developer+%40+Netbay;Computer+Science+%40+Thammasat;Hackathon+Enthusiast;Always+building+something+cool!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -77,6 +77,9 @@ Full-stack developer & AI engineer passionate about building impactful digital p
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -85,28 +88,41 @@ Full-stack developer & AI engineer passionate about building impactful digital p
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 </div>
 
 ## 🏆 Featured Projects
 
+### ✨ Live products
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| [**ช้างน้อยผจญภัย**](https://changnoi.kamnuantech.com) | Learning game for Thai primary students (ป.1–6) — 243 levels across 4 subjects, mini-games, RT/NT/O-NET mock exams, offline PWA | React 19, Vite, Cloudflare Workers + D1, Firebase |
+| [**ranrao**](https://ranrao.shop) | Multi-tenant Roblox game-shop platform — each shop on its own domain, one account across shops, isolated with PostgreSQL Row-Level Security | Next.js 16, PostgreSQL 17, Drizzle, EasySlip, Docker |
+| [**KazuShop**](https://kazushop.kamnuantech.com) | Multi-game Roblox item store — wallet top-up with auto slip verification, in-game bot delivery, bidding and a market-price model | Next.js 16, Auth.js, PostgreSQL, Redis, Discord bot |
+| [**ANYCALLER & AnyChat**](https://www.anyaith.com) | Voice AI call center + LINE/Facebook chatbot SaaS for SMEs (ANY AI Thailand) | NestJS, LiveKit, Prisma, Stripe, Gemini |
+| [**153.bkcc**](https://153.kamnuantech.com) | Bilingual website for Bangkok Campus Ministry with a content editor and privacy-friendly analytics | Next.js 16, PostgreSQL, Drizzle |
+| [**Event Registration**](https://event.kamnuantech.com) | Event sign-up with QR tickets by email and camera check-in | Next.js 16, Drizzle, Nodemailer |
+
+### 🧩 More projects
+
 | Project | Category | Highlights |
 |---------|----------|------------|
-| **KazuShop** — Roblox in-game item store | Web & Full-Stack | Next.js 16, React 19, Auth.js, PromptPay QR with auto slip verification, Supabase + Drizzle |
-| **360Home** — Virtual tour platform | Web & Full-Stack | 360° panorama viewer with Three.js / React Three Fiber, Clerk, Neon PostgreSQL |
-| **CampusVoice** — Campus issue reporting | Web & Full-Stack | MERN stack, JWT roles, upvotes, admin dashboard |
-| **DeliveryGenie** — AI route optimization | AI & Data | Last-mile delivery for 6,000+ stores, 22M GPS points/day, PostGIS, AWS |
-| **Agentic AI Q&A** | AI & Data | Multi-agent RAG with LangChain + LangGraph, pgvector, Claude API, > 85% accuracy |
-| **ScamReport** — AI complaint management (ThaiPBS) | AI & Data | Tech lead for a 5-person team; NLP auto-categorization from LINE OA cut admin time 50% |
-| **OpenClaw** — AI secretary bot | AI & Data | Gemini + Telegram, manages Google Calendar / Tasks in natural language, Cloud Run |
-| **ANYCALLER** — AI call center SaaS | AI & Data | Real-time voice with Twilio + NLP, Stripe subscriptions |
-| **VolunteerMatch** — Disaster response microservice | Backend & API | Rust + Actix-web, geo-matching, AWS EC2 / RDS / SNS |
-| **QFlow** — Queue management API | Backend & API | Go + Gin, Clean Architecture, OTP + JWT auth |
-| **ทันหุ้น (Tunhun)** — Real-time stock tracker | Mobile | Android (Java, MVVM), WebSocket live prices |
-| **Go App DevOps** — GitOps CI/CD on EKS | Automation & Tools | GitHub Actions, Terraform, Helm, ArgoCD on Amazon EKS |
+| **LookPedShop** | Web & Full-Stack | LINE OA second-hand clothing store — Go + Fiber, LIFF, SlipOK |
+| **360Home** | Web & Full-Stack | 360° virtual tour platform with Three.js / React Three Fiber |
+| [**CampusVoice**](https://github.com/Kittithatdensakulprasert/campusvoice) | Web & Full-Stack | MERN campus issue reporting with roles and admin dashboard |
+| [**DeliveryGenie**](https://github.com/KittiphonKamnuan/DeliveryGenie) | AI & Data | Last-mile route optimization, 22M GPS points/day, PostGIS, AWS |
+| **Agentic AI Q&A** | AI & Data | Multi-agent RAG with LangChain + LangGraph, pgvector, Claude API |
+| [**ScamReport**](https://github.com/KittiphonKamnuan/ScamReport) | AI & Data | AI complaint management for ThaiPBS; NLP auto-categorization from LINE OA |
+| **OpenClaw** | AI & Data | Gemini + Telegram AI secretary for Google Calendar / Tasks |
+| **VolunteerMatch** | Backend & API | Rust + Actix-web disaster-response matching on AWS |
+| [**QFlow**](https://github.com/Kittithatdensakulprasert/QFlow) | Backend & API | Go + Gin queue API with Clean Architecture |
+| [**ทันหุ้น (Tunhun)**](https://github.com/KittiphonKamnuan/Tunhun) | Mobile | Android real-time stock tracker over WebSocket |
+| [**Go App DevOps**](https://github.com/cs365-project/go-app-devops) | Automation & Tools | GitOps CI/CD on Amazon EKS with Terraform, Helm, ArgoCD |
 
-👉 See all projects at [kamnuantech.com](https://kamnuantech.com)
+👉 All projects with details at [kamnuantech.com](https://kamnuantech.com)
 
 ## 📊 GitHub Analytics
 
@@ -152,7 +168,7 @@ Full-stack developer & AI engineer passionate about building impactful digital p
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kamnuantech.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F2B84B?style=for-the-badge&logo=google-chrome&logoColor=black)](https://kamnuantech.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kamnuantech.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kittiphon-kamnuan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KittiphonKamnuan)
