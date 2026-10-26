@@ -100,9 +100,9 @@ Full-stack developer & AI engineer passionate about building impactful digital p
 | Project | What it is | Stack |
 |---------|------------|-------|
 | [**ช้างน้อยผจญภัย**](https://changnoi.kamnuantech.com) | Learning game for Thai primary students (ป.1–6) — 243 levels across 4 subjects, mini-games, RT/NT/O-NET mock exams, offline PWA | React 19, Vite, Cloudflare Workers + D1, Firebase |
-| [**ranrao**](https://ranrao.shop) | Multi-tenant Roblox game-shop platform — each shop on its own domain, one account across shops, isolated with PostgreSQL Row-Level Security | Next.js 16, PostgreSQL 17, Drizzle, EasySlip, Docker |
-| [**KazuShop**](https://kazushop.kamnuantech.com) | Multi-game Roblox item store — wallet top-up with auto slip verification, in-game bot delivery, bidding and a market-price model | Next.js 16, Auth.js, PostgreSQL, Redis, Discord bot |
-| [**ANYCALLER & AnyChat**](https://www.anyaith.com) | Voice AI call center + LINE/Facebook chatbot SaaS for SMEs (ANY AI Thailand) | NestJS, LiveKit, Prisma, Stripe, Gemini |
+| [**ranrao**](https://ranrao.shop) | Ready-made Roblox game-shop platform — each shop gets its own storefront and domain, customers use one account across shops | Next.js 16, PostgreSQL, Drizzle, Docker |
+| [**KazuShop**](https://kazushop.kamnuantech.com) | Multi-game Roblox item store — wallet top-up with automatic slip verification, bidding and live admin dashboard | Next.js 16, Auth.js, PostgreSQL, Redis |
+| [**ANYCALLER**](https://www.anyaith.com) | Voice AI call center SaaS for SMEs (ANY AI Thailand) — co-founder & lead engineer | Next.js, TypeScript, Voice AI, Stripe |
 | [**153.bkcc**](https://153.kamnuantech.com) | Bilingual website for Bangkok Campus Ministry with a content editor and privacy-friendly analytics | Next.js 16, PostgreSQL, Drizzle |
 | [**Event Registration**](https://event.kamnuantech.com) | Event sign-up with QR tickets by email and camera check-in | Next.js 16, Drizzle, Nodemailer |
 
